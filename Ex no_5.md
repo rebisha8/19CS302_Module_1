@@ -13,6 +13,7 @@ To write a C program to calculate the total marks, average, and percentage of ma
 7. End.
    
 ## Program:
+~~~c
 #include <stdio.h>
 int main() {
  int sub1, sub2, sub3, total;
@@ -24,7 +25,7 @@ int main() {
  printf("Average : %.2f\n", average);
  return 0;
 }
-
+~~~
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/1baf9744-c717-4f59-95e4-93f93ce680ee)
